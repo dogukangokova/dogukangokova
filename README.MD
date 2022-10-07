@@ -1,6 +1,6 @@
 <img src="https://frpnet.net/wp-content/uploads/2015/11/darth-vader-battlefront-gif.gif" align="right" width="400" height="250">
 
-### Hi there, I'm Dogukan. :thinking:
+### Hi there, I'm Doğukan. :thinking:
 
 ## Full Stack Developer
 
@@ -33,7 +33,7 @@
 </details>
 
 <details>
-<summary>:bulb: Most Used Languages</summary>
+<summary>:bulb:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukangokova&layout=compact" >
 </details>
 
