@@ -29,4 +29,4 @@ src="https://img.shields.io/github/followers/dogukangokova?logo=github&style=for
 
 <a href="http://www.github.com/dogukangokova"><img src="https://github-readme-stats.vercel.app/api?username=dogukangokova&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true" alt="dogukangokova's GitHub stats" /></a>
 
-<a href="https://github.com/dogukangokova" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukangokova&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/dogukangokova" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dogukangokova&langs_count=5&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
